@@ -1,0 +1,6 @@
+*.pyc
+db.sqlite3
+venv
+__pychache__
+local_settings.py
+.idea/workspace.xml
